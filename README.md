@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jitixy" target="blank"><img src="https://img.shields.io/twitter/follow/jitixy?logo=twitter&style=for-the-badge" alt="jitixy" /></a> </p>
 
-- 🔭 I’m currently working on **no real project**
+- 🔭 I’m currently working on **myself only(no offense)😅**
 
 - 🌱 I’m currently learning **js,python,vue js.,angular,solidity**
 
