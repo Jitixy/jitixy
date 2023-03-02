@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daljeet singh</h1>
+<h1 align="center">Hi 👋, I'm Daljeet singh<br> btw you can call me "jiti" thats my nickname</h1>
 <h3 align="center">An alien learning to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitixy&label=Profile%20views&color=0e75b6&style=flat" alt="jitixy" /> </p>
