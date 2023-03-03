@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **daljeetsinghxy@gmail.com**
 
-- ⚡ Fun fact **i think i am alien.**
+- ⚡ Fun fact **i think i am alienn .**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
