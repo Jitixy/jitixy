@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/jitixy" target="blank"><img src="https://img.shields.io/twitter/follow/jitixy?logo=twitter&style=for-the-badge" alt="jitixy" /></a> </p>
 
-- 🔭 I’m currently working on **no real project**
+- 🔭 I’m currently working on My portfolio project. available at <a>https://daljeetsportfolio.netlify.app/</a>
 
 - 🌱 I’m currently learning **js,python,vue js.,angular,solidity**
 
-- 👨‍💻 All of my projects are available at [jiti-nova.com](jiti-nova.com)
+- 👨‍💻 All of my projects are available at [https://daljeetsportfolio.netlify.app/](https://daljeetsportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [www.weebly.com](www.weebly.com)
+
 
 - 💬 Ask me about **javascript, html, css**
 
